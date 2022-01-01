@@ -1,14 +1,18 @@
 {
-    "name": "sddssdy",
-    "description": "Dsddssddseroku.",
-    "keywords": ["sdsdy"],
+    "name": "csaccs",
+    "description": "ssxsc.",
+    "keywords": ["sdsdd"],
     "env": {
-        "UUID": {
-            "description": "dddd UUID",
+        "ID": {
+            "description": "UUID",
             "value": "cfae68b0-7e80-49cc-8407-77ebe02bb71d"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
         }
     },
-    "website": "https://www.x-potato.com",
-    "repository": "httpdasdsadasu",
+    "website": "ffff.com",
+    "repository": "https://github.com/bcldfsfsdss",
     "stack": "container"
 }
