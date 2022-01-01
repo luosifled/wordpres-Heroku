@@ -1,14 +1,14 @@
 {
-    "name": "XRay",
-    "description": "Deploy Xray on Heroku.",
-    "keywords": ["XRay"],
+    "name": "sddssdy",
+    "description": "Dsddssddseroku.",
+    "keywords": ["sdsdy"],
     "env": {
         "UUID": {
-            "description": "XRay UUID",
-            "value": "7901563d-d07c-45da-85b7-707bc3d9377f"
+            "description": "dddd UUID",
+            "value": "cfae68b0-7e80-49cc-8407-77ebe02bb71d"
         }
     },
     "website": "https://www.x-potato.com",
-    "repository": "https://github.com/yxhit/Xray-Heroku",
+    "repository": "httpdasdsadasu",
     "stack": "container"
 }
